@@ -1,4 +1,7 @@
 #!/bin/bash 
+# Add the following function to your BASH.
+# run the `my_script_template` function by passing it a desired file name as first argument.
+# You will have a quick `bash` script file ready at your working directory with executable permission on it.
 
 my_script_template(){
   arg1="${1}"
